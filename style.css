@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://images.creativemarket.com/0.1.0/ps/1964271/300/200/m2/fpc/wm0/rzg2bnxhq1wxeipnh75xfrppgujevyyc2ybkegxq0vbmstkcyfbq9kap5fqac7z1-.jpg?1480451266&s=ed078460f5bca5f68c5ae0aa68442237');
+    background-size: 100%;
+    text-align: center;
+}
+
+h2{
+    display: inline-block;
+    font-size: 46px;
+    letter-spacing: 2px;
+    margin: 200px 0 0 ;
+    color: #DAD6D6;
+}
+
+button{
+    margin: 40px auto;
+  text-align: center;
+  color: #DAD6D6;
+  
+  border-radius:5px;
+  padding:16px 40px 16px;
+  letter-spacing: 2px;
+  cursor:pointer;
+}
+
+#start{
+    background: #48633B;
+    border:solid 2px #35492C;
+}
+
+#stop{
+    background: #721329;
+  border:solid 2px #590F20;
+}
+
+#reset{
+    background: #564E58;
+  border:solid 2px #3E383F;
+}
